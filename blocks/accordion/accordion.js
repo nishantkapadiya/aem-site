@@ -1,3 +1,6 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable no-tabs */
+/* eslint-disable indent */
 /*
  * Accordion Block
  * Recreate an accordion
